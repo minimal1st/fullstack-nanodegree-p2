@@ -10,7 +10,7 @@ The game tournament uses a Swiss system for pairing up players in each round: pl
 
 ### Minimum tasks that needed to be completed to meet expectations:
 
-At a minimum, I needed to install Vagrant and Virtual Box, write the SQL database and table definitions in  `tournament.sql`, write Python functions according to the API that was provided in `tournament.py` and run the test suite to verify the code (`tournament_test.py`).
+At a minimum, I needed to install Vagrant and Virtual Box, write the SQL database and table definitions in  `tournament.sql`, write Python functions according to the API that was provided in `tournament.py`. I then needed to test the functions defined in `tournament.py` using `tournament_test.py`.
 
 ### Description of Files, Classes and Functions:
 
