@@ -2,7 +2,7 @@
 
 ### Overview of the Project:
 
-For the second project in _Udacity_'s **Full Stack Web Development Nanodegree**, I needed to develop a database schema (SQL table definitions) and write a Python module that uses the PostgreSQL database to keep track of players and matches in a game tournament. The goal of this project was to learn how to architect and develop a database containing fully normalized data within multiple tables and how to modify this data and query it to meet the demands of a variety of use cases.
+For the second project in _Udacity_'s **Full Stack Web Development Nanodegree**, I needed to develop a database schema (SQL table definitions) and write a Python module using a PostgreSQL database to keep track of players and matches in a game tournament. The goal of this project was to learn how to architect and develop a database containing fully normalized data within multiple tables and how to modify this data and query it to meet the demands of a variety of use cases.
 
 ## Note about the game tournament
 
